@@ -2,6 +2,7 @@
 
 在 macOS 状态栏显示 GIF 动画 | Display GIF animations in the macOS status bar
 
+Release 下载：https://github.com/lecepin/mac-toolbar-gif/releases
 
 
 ### Features
